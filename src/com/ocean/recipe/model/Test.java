@@ -1,4 +1,4 @@
-package com.ocean.template.springmvc.model;
+package com.ocean.recipe.model;
 
 import java.io.Serializable;
 import java.util.UUID;

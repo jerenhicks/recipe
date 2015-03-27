@@ -1,4 +1,4 @@
-package com.ocean.template.springmvc.dao;
+package com.ocean.recipe.dao;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

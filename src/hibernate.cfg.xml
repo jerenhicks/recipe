@@ -15,6 +15,6 @@
 		<property name="hbm2ddl.auto">update</property>
 		
 		       <!-- mappings for annotated classes -->
-        <mapping class="com.ocean.nuhuh.model.Test"/>
+        <mapping class="com.ocean.recipe.model.Test"/>
 	</session-factory>
 </hibernate-configuration>

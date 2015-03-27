@@ -1,4 +1,4 @@
-package com.ocean.template.springmvc.dao;
+package com.ocean.recipe.dao;
 
 import java.util.List;
 import java.util.UUID;

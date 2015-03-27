@@ -1,9 +1,9 @@
-package com.ocean.template.springmvc.dao;
+package com.ocean.recipe.dao;
 
 import java.util.List;
 import java.util.UUID;
 
-import com.ocean.template.springmvc.model.Test;
+import com.ocean.recipe.model.Test;
 
 public class TestDao extends HibernateDaoUtil implements Dao<Test> {
 	

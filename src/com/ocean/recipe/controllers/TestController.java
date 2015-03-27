@@ -1,4 +1,4 @@
-package com.ocean.template.springmvc.controllers;
+package com.ocean.recipe.controllers;
 
 import java.util.List;
 import java.util.UUID;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.ocean.template.springmvc.dao.TestDao;
-import com.ocean.template.springmvc.model.Test;
+import com.ocean.recipe.dao.TestDao;
+import com.ocean.recipe.model.Test;
 
 @Controller
 public class TestController {
